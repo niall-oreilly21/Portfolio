@@ -1,7 +1,7 @@
 import React from "react";
 import CardData from "./CardData";
 import { Link } from "react-router-dom";
-import boomImage from "../CA1 - Copy/images/Cal.png";
+import boomImage from "../Assets/Images/img.png";
 import {Col} from "react-bootstrap"; // Correct path to the image
 
 export default class Card extends React.Component<{ cardData: CardData }> {
