@@ -1,0 +1,64 @@
+{
+  "projects": [
+    {
+      "imagePath": "../CA1 - Copy/images/Cal.png",
+      "htmlPath": "../CA1 - Copy/index.html",
+      "title": "Project A",
+      "year": 2023,
+      "content": "Cool Project.",
+      "difficulty": 20,
+      "time": 10,
+      "tags": ["modelling", "AI"]
+    },
+    {
+      "imagePath": "../CA1 - Copy/images/Cal.png",
+      "htmlPath": "https://github.com/user/project-b",
+      "title": "Project B",
+      "year": 2024,
+      "content": "This is the first project.",
+      "difficulty": 10,
+      "time": 200,
+      "tags": ["modelling"]
+    },
+    {
+      "imagePath": "../CA1 - Copy/images/Cal.png",
+      "htmlPath": "https://github.com/user/project-b",
+      "title": "Project C",
+      "year": 2024,
+      "content": "This is the first project.",
+      "difficulty": 5,
+      "time": 100,
+      "tags": ["modelling"]
+    },
+    {
+      "imagePath": "../CA1 - Copy/images/Cal.png",
+      "htmlPath": "https://github.com/user/project-b",
+      "title": "Project C",
+      "year": 2024,
+      "content": "This is the first project.",
+      "difficulty": 5,
+      "time": 100,
+      "tags": []
+    },
+    {
+      "imagePath": "../CA1 - Copy/images/Cal.png",
+      "htmlPath": "https://github.com/user/project-b",
+      "title": "Project C",
+      "year": 2024,
+      "content": "This is the first project.",
+      "difficulty": 5,
+      "time": 100,
+      "tags": []
+    },
+    {
+      "imagePath": "../CA1 - Copy/images/Cal.png",
+      "htmlPath": "https://github.com/user/project-b",
+      "title": "Project C",
+      "year": 2024,
+      "content": "This is the first project.",
+      "difficulty": 5,
+      "time": 100,
+      "tags": []
+    }
+  ]
+}
